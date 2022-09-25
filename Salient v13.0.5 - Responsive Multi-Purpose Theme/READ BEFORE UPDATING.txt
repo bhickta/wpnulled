@@ -1,0 +1,1 @@
+The following applies only to upgrading users coming from a version below 10.5: Please take a moment to read through our update guide before updating: http://themenectar.com/docs/salient/important-salient-update-for-new-envato-requirements/
